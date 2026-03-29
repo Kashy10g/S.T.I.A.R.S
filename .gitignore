@@ -1,0 +1,10 @@
+# Hiding my secret keys (Mandatory)
+.env
+
+# Hiding my personal logs so the repo stays clean
+security_log.txt
+site_log.txt
+
+# Hiding Python temporary files
+__pycache__/
+*.pyc
